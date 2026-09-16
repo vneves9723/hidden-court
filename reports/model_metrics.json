@@ -1,0 +1,12 @@
+{
+  "holdout_season": "2024-25",
+  "train_rows": 3450,
+  "test_rows": 415,
+  "breakout_rate_holdout": 0.094,
+  "roc_auc": 0.7546,
+  "average_precision": 0.1955,
+  "precision_top_decile": 0.1667,
+  "recall_top_decile": 0.1795,
+  "lift_top_decile": 1.774,
+  "next_ppg_mae": 2.732
+}
