@@ -16,6 +16,7 @@ MODEL_PATH = MODEL_DIR / "hidden_court_models.joblib"
 
 SEASONS = [f"{year}-{str(year + 1)[-2:]}" for year in range(2015, 2026)]
 CURRENT_SEASON = "2025-26"
+PROJECTION_SEASON = "2026-27"
 
 FEATURES = [
     "age",
