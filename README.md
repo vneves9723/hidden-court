@@ -1,4 +1,4 @@
-# Hidden Court 🏀
+# Hidden Court 
 
 **NBA scouting analytics: finding undervalued young players before their breakout.**
 
