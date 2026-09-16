@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/
+.venv/
+venv/
+.DS_Store
+models/*.joblib
+data/raw/*.csv
+data/processed/training_pairs.csv
